@@ -1533,9 +1533,9 @@ textarea.is-invalid {
   padding-right: 0;
 }
 
-.slick-track {
+/* .slick-track {
   min-width: 100%;
-}
+} */
 
 .slick-slide img {
   display: inline-block;
